@@ -1,0 +1,9 @@
+.root-container {
+  width: 100%;
+  & .table-container{
+    overflow: auto;
+  }
+}
+.mat-header-cell-large {
+  min-width: 15rem;
+}
